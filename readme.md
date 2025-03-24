@@ -1,41 +1,63 @@
-Round 1 : ( Aptitude and Technical Round Online Test) 
+# Interview Process 🎯
 
-👉 Online aptitude round consists of verbal ability questions , and there was time limit , make sure to pick other question if you don't know answer , RestAssured API Questions , Good Level Java Programs were there too.
----------------------------------------------------------------------------------
-📌 Round 2 : ( Technical )
-👉 Write Java Program to find the maximum sum subarray.
-👉 How System.out.println( ) works ?
-👉 Write code to achieve multiple Inheritance using Interface ?
-👉 Why String is immutable in Java ? StringBuffer use.
-👉How would you design test cases for an application where the requirements are not clear?
-👉 Suppose you have 10 test cases and they are failing randomly what will be your approach on fixing those scripts.
-👉 What is Bug Life cycle , explain in detail.
-👉 Suppose you are working with multiple tabs in selenium, how would you wait in selenium ,until the number of opened tabs should be equal to 4
-👉 How to wait for the file download to finish in selenium ?
-👉 What are dataProviders in testNg. ?
-👉 What are challenges you faced while working with framework ?
-👉 What are listeners in testNg ?
-👉 Share screen and asked to write xpath using sibling concept.
-👉 Is there any situation where you didn't agreed with developer and how did you handled them.
-👉 Do you know factory design pattern ?
-----------------------------------------------------------------------------------
-📌 Round 3 : ( Technical round )
-👉 How would you decide that I need to stop testing for a particular feature
-👉 Suppose requirements are not clear to you what is your approach ?
-👉 How would you handle calendars in Selenium ? 
-👉 Actions class vs Select class ? 
-👉 What would you do if requirements missing during testing ?
-👉 How would you fetch the attribute value of an element in selenium. 
-👉 What is Multi Threading in Java
-👉 What are global variables and environment variables in postman.
-👉 I want to check API response is correct or not but when hitting API using GET ,it takes 1 minute for response to come , is there other HTTP Method ?
-👉 Do you know use of TRACE API Method ? (write ans in comment )
-👉 How would you ensure test cases you written are complete ?
-👉 How you will test for security vulnerability in your application ? 
-👉 One question from Java stream related to finding duplicate element.j
-----------------------------------------------------------------------------------
-📌 Round 4 : ( HR )
-👉 How soon you can join ?
-👉 Why did you leave your last job? 
-👉Are you willing to relocate or travel for the job?
-👉 Salary discussion etc.
+## Round 1: Aptitude and Technical Round (Online Test) 📝
+
+The online aptitude round includes:
+- Verbal ability questions with time limits
+- RestAssured API Questions
+- Good Level Java Programs
+
+**Note:** If you don't know an answer, it's recommended to move to another question.
+
+## Round 2: Technical Interview 💻
+
+### Java and Programming Questions
+- Write a Java program to find the maximum sum subarray
+- Explain how `System.out.println()` works
+- Write code to achieve multiple inheritance using Interface
+- Why is String immutable in Java? Discuss StringBuffer usage
+
+### Testing and Selenium
+- How would you design test cases for an application where the requirements are not clear?
+- How would you approach fixing 10 randomly failing test cases?
+- Explain the Bug Life Cycle in detail
+- How to handle multiple tabs in Selenium until the count reaches 4?
+- How to wait for file download completion in Selenium?
+- What are dataProviders in TestNG?
+- What challenges have you faced while working with frameworks?
+- What are listeners in TestNG?
+- XPath using sibling concept (practical demonstration)
+- How do you handle disagreements with developers?
+- Explain Factory Design Pattern
+
+## Round 3: Advanced Technical Interview 🔍
+
+### Testing and Automation
+- When do you decide to stop testing a feature?
+- How to approach unclear requirements?
+- Handling calendars in Selenium
+- Actions class vs Select class - differences
+- Handling missing requirements during testing
+- How to fetch element attribute values in Selenium?
+
+### Java and API Testing
+- Multi-threading in Java
+- Global variables and environment variables in Postman
+- Optimizing slow GET API responses
+- TRACE API Method usage
+- Test case completeness verification
+- Security vulnerability testing approaches
+- Java Streams: Finding duplicate elements in a list
+
+## Round 4: HR Interview 👥
+
+### Common Questions
+- Notice period and joining timeline
+- Reasons for leaving previous employment
+- Relocation/travel flexibility
+- Compensation discussion and expectations
+
+---
+
+Good luck with your interview! 🚀
+
